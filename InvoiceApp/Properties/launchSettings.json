@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "InvoiceAppGui (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "InvoiceAppGui (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
